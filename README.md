@@ -32,3 +32,10 @@ survival of the best fit game
 convolutional neural network vs. fully connected neural network
 - in a fully connected neural network, every neuron in each layer is connected to every neuron in the next layer. this is useful in that no assumptions need to be made about the input. meanwhile, in CNNs, the inputs are always assumed to be images, so the layers are connected through differentiable functions rather than connecting every single neuron. 
 - fully connected networks have very broad applications, but are generally weaker than specialized networks. CNNs on the other hand are more tuned to the special purpose of using images in a model, and are therefore stronger in that respect
+
+### Day 14 - July 19
+loss functions
+- one thing I noticed today is that the mean squared error loss (MSE) is exactly like a least-sqaures regression line in statistics. I also thought it was interesting that there is also a mean squared log error loss for minimizing the impact of incorrect predictions and accounting for unscaled data. Also thought "gradient descent" is aptly named as it evokes a visual of the model progressing down a curve or gradient to find the lowest point
+
+### Day 15 - July 20
+ReLU functions are advantageous in that they are more efficient and faster to compute than other activation functions such as sigmoid functions, and ReLU avoids vanishing gradients. they are also more biologically similar to the way neurons work in the brain. ReLU functions are mostly used in hidden layers and they can be used for speech recognition and natural language processing.
