@@ -39,3 +39,12 @@ loss functions
 
 ### Day 15 - July 20
 ReLU functions are advantageous in that they are more efficient and faster to compute than other activation functions such as sigmoid functions, and ReLU avoids vanishing gradients. they are also more biologically similar to the way neurons work in the brain. ReLU functions are mostly used in hidden layers and they can be used for speech recognition and natural language processing.
+
+### Day 16 - July 21
+ethics in AI - reflection: it is important for us to realize that the data that the models is trained on should not be regarded as "objective truth" - there can be factors such as exclusion, over-representation, and biased labeling which all influence the predictions that the model makes. transparency is also important in the development and usage of AI algorithms.
+
+### Day 17 - July 22
+image classification - reflection: image processing has the same general structure as other ML algorthims, except there needs tobe image preprocessing before the training cycle. this preprocessing includes standardization, class balance, and image augmentation. also learned about the difference between object detection (is it there at all) vs. object localization (not only detects and labels object, but makes bounding box around the position of the object in the image
+
+### Day 18 - July 23
+regularization - reflection: learned about overfitting / underfitting - overfitting is essentially when the model is overtrained and the error cannot be narrowed no matter what. underfitting is basically when the model is under-trained and we cannot obtain a sufficiently low error on the training set. to reduce overfitting, we use regularization, of which there are several types including L1, L2, drop-out, and early stopping
