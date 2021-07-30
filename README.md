@@ -48,3 +48,9 @@ image classification - reflection: image processing has the same general structu
 
 ### Day 18 - July 23
 regularization - reflection: learned about overfitting / underfitting - overfitting is essentially when the model is overtrained and the error cannot be narrowed no matter what. underfitting is basically when the model is under-trained and we cannot obtain a sufficiently low error on the training set. to reduce overfitting, we use regularization, of which there are several types including L1, L2, drop-out, and early stopping
+
+### Day 21 - July 26
+upsampling and autoencoders - learned about autoencoders: neural network that learns data in an upsupervised manner (encoder learns compressed representations, decoder reconstructs the inputs). I thought the most interesting application of autoencoders to me was the ability to correct corrupted data or de-noise images. It makes sense that autoencoders would be used for this because they have the ability to reconstruct the input data in a more succinet (de-noised) manner after learning the features from the input data. I thought it was especially cool to see this in the action item where the model was able to identify numbers from very blurry/noisy images and then show the output as the correct number on a completely black and noiseless background. 
+
+### Day 22 - July 27
+affective computing - learned about ML algorithms that try to analyze and identify human emotions. I think this would be one of the hardest parts of ML, since different people may express different emotions differently on their faces, and their faces may not always reflect their true state of emotion. Although I thought the demos analyzing the face of a driver were interesting, I'm not sure they would have any realistic applications yet given the variability in people's expressions.
