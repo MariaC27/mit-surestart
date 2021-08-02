@@ -54,3 +54,6 @@ upsampling and autoencoders - learned about autoencoders: neural network that le
 
 ### Day 22 - July 27
 affective computing - learned about ML algorithms that try to analyze and identify human emotions. I think this would be one of the hardest parts of ML, since different people may express different emotions differently on their faces, and their faces may not always reflect their true state of emotion. Although I thought the demos analyzing the face of a driver were interesting, I'm not sure they would have any realistic applications yet given the variability in people's expressions.
+
+### Day 23 - July 28
+natural language processing - reflection: this was probably my favorite topic so far. I've always wanted to learn more about linguistics and I like that NLP combines CS, stats, and linguistics together. one application of nlp I see every day is the iMessage predictive text generator. I find it generally pretty helpful although it could use some improvement. big nlp models such as GPT-2 could raise ethical concerns because of their wide usage. If the data used in GPT-2 contains biases or not enough of certain types of speech, this could potentially affect the models and results thousands of people who use the dataset.
