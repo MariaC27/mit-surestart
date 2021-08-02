@@ -57,3 +57,6 @@ affective computing - learned about ML algorithms that try to analyze and identi
 
 ### Day 23 - July 28
 natural language processing - reflection: this was probably my favorite topic so far. I've always wanted to learn more about linguistics and I like that NLP combines CS, stats, and linguistics together. one application of nlp I see every day is the iMessage predictive text generator. I find it generally pretty helpful although it could use some improvement. However, language model GPT-2 raises ethical concerns because, despite its wide usage, the source code has never been made available to the public, which demonstrates a lack of transparency. If there were biases in the model, the public would have no way to know and acknowledge them.
+
+### Day 24 - July 29
+computer vision - reflection: thought that the re-colorization of greyscale images is super cool, would like to do more independent research about how this works
