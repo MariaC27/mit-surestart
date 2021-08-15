@@ -1,5 +1,5 @@
 # MIT SureStart Program
-This repository contains my projects and reflections for the MIT SureStart Program, a virtual, part-time 6-week AI learning program during summer 2021. I was in the Deep Learning track, where material convered included the basic concepts of machine learning and neural networks, usage of python and tensorflow to create and train ML models, and discussion and practice of applications such as natural language processing and computer vision. Code was written in Jupyter Notebooks in Python, using tensorflow and keras.
+This repository contains my projects and reflections for the MIT SureStart Program, a virtual, part-time 6-week AI course during summer 2021. I was in the Deep Learning track, where material convered included the basic concepts of machine learning and neural networks, usage of python and tensorflow to create and train ML models, and discussion and practice of applications such as natural language processing and computer vision. Code was written in Jupyter Notebooks in Python, using tensorflow and keras.
 
 ### Day 1 - July 6
 learned of lambda function for iteration in python
